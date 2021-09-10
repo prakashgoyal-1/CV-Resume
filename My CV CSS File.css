@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(247, 247, 247);
+}
+h4{
+    color: none;
+}
+.underline{
+    
+    text-decoration: underline;
+}
+.inline{
+    display: inline ;
+    color: none;
+
+}
+.blocklevel{
+    display: inline-block;
+}
+table,th,td{
+    border: 0.5px solid black;
+}
+hr  
+{  
+size: 40px;
+height: 10px; 
+width: 100%;    
+
+}
+body{
+    background-color: rgba(235, 231, 231, 0.363);
+}
